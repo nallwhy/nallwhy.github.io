@@ -5,10 +5,6 @@ date:   2016-03-29 23:00:00 +0900
 categories: resume
 ---
 
-# Test
-
-### Test 
-
 ### **Who I am**
 
 Name: Jinkyou Son
@@ -18,7 +14,7 @@ Nickname: mayTree, Json
 motto: [인간은 완벽할 수 없지만, 완벽해질 수 있다](http://json.postype.com/post/119354/){:target="_blank"}
 
 
-###**What I can**
+### **What I can**
 
 **Top Skills**
 
@@ -40,7 +36,7 @@ motto: [인간은 완벽할 수 없지만, 완벽해질 수 있다](http://json.
 Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 
-###**Also, I Interested in**
+### **Also, I Interested in**
 
 - Angular 2
 - React
@@ -51,7 +47,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 - Elm
 
 
-###**What I did**
+### **What I did**
 
 - 3DSprint Desktop ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
   CES 2016 Innovation Award\\
@@ -91,7 +87,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
   현재 베타테스팅중
 
 
-###**Career**
+### **Career**
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
