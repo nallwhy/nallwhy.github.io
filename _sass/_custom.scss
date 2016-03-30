@@ -1,3 +1,5 @@
+@import 'flexbox';
+
 .site-title {
   .rounded { width: 40px; height: 40px;}
 }
@@ -9,4 +11,27 @@
 
 .post-content {
   h3:not(:first-of-type) { margin-top: 40px; }
+}
+
+.flex-container {
+  @include flexbox;
+  @include align-items(center);
+  // @include justify-content(space-between);
+  padding: 20px 15px 25px 15px;
+
+  border-top: 1px solid #828282;
+  &:last-of-type{border-bottom: 1px solid #828282; margin-bottom: 20px;}
+
+  .flex-content {
+    margin-right: 20px;
+    @include flex(0, 3, 500px);
+
+    .content-detail {
+      margin-bottom: 3px;
+      font-size: 14px;
+    }
+  }
+  .flex-image {
+    @include flex(0, 1, 130px);
+  }
 }
