@@ -11,7 +11,7 @@ Name: Jinkyou Son
 
 Nickname: mayTree, Json
 
-motto: [인간은 완벽할 수 없지만, 완벽해질 수 있다](http://json.postype.com/post/119354/){:target="_blank"}
+Motto: [인간은 완벽할 수 없지만, 완벽해질 수 있다](http://json.postype.com/post/119354/){:target="_blank"}
 
 
 ### **What I experienced**
