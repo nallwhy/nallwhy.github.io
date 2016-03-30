@@ -15,7 +15,7 @@
 
 .flex-container {
   @include flexbox;
-  @include align-items(center);
+  // @include align-items(center);
   // @include justify-content(space-between);
   padding: 20px 15px 25px 15px;
 
@@ -25,6 +25,7 @@
   .flex-content {
     margin-right: 20px;
     @include flex(0, 3, 500px);
+    @include align-self(center);
 
     .content-detail {
       margin-bottom: 3px;
