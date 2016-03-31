@@ -49,7 +49,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 ### **What I did**
 
-- 3DSprint Connect ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
+- 3DPRINT Connect ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
   CES 2016 Innovation Award
   
   ![3dsprint_connect](/images/3dsprint_connect.png)
@@ -75,7 +75,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
   Front-end layout 구조 작업, 3D viewer command 제작 및 event 연결
 
-- [3DSprint Cloud](http://www.3dsprint.com/) (4 months)
+- [3DSPRINT Cloud](http://www.3dsprint.com/) (4 months)
 
   ![3dsprint_cloud](/images/3dsprint_cloud.png)
 
@@ -99,7 +99,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 ### **Career**
 
-<div id="career">
+<div class="career">
   <div class="board-flex-container">
     <div class="board-flex-content">
       <p><b>Cultrip</b></p>
@@ -126,7 +126,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 ### **Education**
 
-<div id="education">
+<div class="education">
   <div class="board-flex-container">
     <div class="board-flex-content">
       <p><b>Seoul National University</b></p>
@@ -183,27 +183,28 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 ### **Activity**
 
-<div class="card-flex-container">
-  <div class="card-flex-item">
-    <a href="http://blog.weirdx.io/" target="_blank">
-      <img src="/images/weirdmeetup_logo.png">
-      <p>Weirdmeetup</p>
-    </a>
-  </div>
-  <div class="card-flex-item">
-    <a href="http://kotlin.kr/" target="_blank">
-      <img src="/images/kotlinkorea_logo.png">
-      <p>Kotlin Korea</p>
-    </a>
-  </div>
-  <div class="card-flex-item">
-    <a href="https://www.facebook.com/groups/1581001912175827/" target="_blank">
-      <img src="/images/appdev_logo.png">
-      <p>앱개발 고픈 사람들의 모임</p>
-    </a>
+<div class="activity">
+  <div class="card-flex-container">
+    <div class="card-flex-item">
+      <a href="http://blog.weirdx.io/" target="_blank">
+        <img src="/images/weirdmeetup_logo.png">
+        <p>Weirdmeetup</p>
+      </a>
+    </div>
+    <div class="card-flex-item">
+      <a href="http://kotlin.kr/" target="_blank">
+        <img src="/images/kotlinkorea_logo.png">
+        <p>Kotlin Korea</p>
+      </a>
+    </div>
+    <div class="card-flex-item">
+      <a href="https://www.facebook.com/groups/1581001912175827/" target="_blank">
+        <img src="/images/appdev_logo.png">
+        <p>앱개발 고픈 사람들의 모임</p>
+      </a>
+    </div>
   </div>
 </div>
-
 
 ### **Story**
 
