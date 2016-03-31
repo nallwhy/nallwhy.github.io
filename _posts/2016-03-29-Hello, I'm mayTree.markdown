@@ -49,10 +49,11 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 ### **What I did**
 
-- 3DSprint Desktop ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
+- 3DSprint Connect ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
   CES 2016 Innovation Award
   
-  ![3dsprint_ces](/images/3dsprint_ces.png){:height="280px"}
+  ![3dsprint_connect](/images/3dsprint_connect.png)
+  ![3dsprint_ces](/images/3dsprint_ces.jpeg)
 
   - Project Canvas: 3D rendering engine based on scene graph data structure (70%)
 
@@ -69,14 +70,14 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 - [3DSystems onDemand](http://qpe-staging.herokuapp.com/home) (6 months)
 
-  ![odm_main](/images/odm_main.png){:height="280px"}
-  ![odm_3dview](/images/odm_3dview.png){:height="280px"}
+  ![odm_main](/images/odm_main.png)
+  ![odm_3dview](/images/odm_3dview.png)
 
   Front-end layout 구조 작업, 3D viewer command 제작 및 event 연결
 
 - [3DSprint Cloud](http://www.3dsprint.com/) (4 months)
 
-  ![3dsprint_cloud](/images/3dsprint_cloud.png){:height="280px"}
+  ![3dsprint_cloud](/images/3dsprint_cloud.png)
 
   Front-end jobs
 
@@ -88,8 +89,8 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
   [Android app](https://play.google.com/apps/testing/kr.co.cultrip.www.cultrip)
 
-  ![cultrip_0](/images/cultrip_0.png){:height="350px"}
-  ![cultrip_1](/images/cultrip_1.png){:height="350px"}
+  ![cultrip_0](/images/cultrip_0.png){:width="40%"}
+  ![cultrip_1](/images/cultrip_1.png){:width="40%"}
 
   API server based on Rails
 
@@ -99,15 +100,25 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 ### **Career**
 
 <div id="career">
-  <div class="flex-container">
-    <div class="flex-content">
+  <div class="board-flex-container">
+    <div class="board-flex-content">
+      <p><b>Cultrip</b></p>
+      <div class="content-detail">CTO</div>
+      <span>2016 -</span>
+    </div>
+    <div class="board-flex-image">
+      <img src="/images/cultrip_logo.png"/>
+    </div>
+  </div>
+  <div class="board-flex-container">
+    <div class="board-flex-content">
       <p><b>3DSystems Korea</b></p>
       <div class="content-detail">Software Engineer</div>
       <span>Cloud Team (2015 - 2016)</span>
       <br/>
       <span>Print Core Team (2013 - 2015)</span>
     </div>
-    <div class="flex-image">
+    <div class="board-flex-image">
       <img src="/images/3dsystems.jpg"/>
     </div>
   </div>
@@ -116,8 +127,8 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 ### **Education**
 
 <div id="education">
-  <div class="flex-container">
-    <div class="flex-content">
+  <div class="board-flex-container">
+    <div class="board-flex-content">
       <p><b>Seoul National University</b></p>
       <div>Mechanical and Aerospace Engineering, Master of Science (MS)</div>
       <div>2011 - 2013</div>
@@ -134,13 +145,13 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
       <div class="content-detail"><a href="https://vimeo.com/60218463" target="_blank">Wire Design using PS Move</a></div>
       <div class="content-detail"><a href="https://vimeo.com/22432532" target="_blank">SoundVisualizer: Human</a></div>
     </div>
-    <div class="flex-image">
+    <div class="board-flex-image">
       <img src="http://www.snu.ac.kr/images/common/img/img01_mark_ab0102.gif"/>
     </div>
   </div>
 
-  <div class="flex-container">
-    <div class="flex-content">
+  <div class="board-flex-container">
+    <div class="board-flex-content">
       <p><b>Seoul National University</b></p>
       <div>Mechanical and Aerospace Engineering, Bachelor of Science (BS)</div>
       <div>2007 - 2011</div>
@@ -153,42 +164,46 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
       <div class="content-detail">Presidnet of RC Airplane Club 'Bulnabi' (2009)</div>
       <div class="content-detail">Band 'Zither' (2007-2011)</div>
     </div>
-    <div class="flex-image">
+    <div class="board-flex-image">
       <img src="http://www.snu.ac.kr/images/common/img/img01_mark_ab0102.gif"/>
     </div>
   </div>
 
-  <div class="flex-container">
-    <div class="flex-content">
+  <div class="board-flex-container">
+    <div class="board-flex-content">
       <p><b>Gyeonggi Academy of Foreign Languages</b></p>
       <div>English, Japaness</div>
       <div>2004 - 2007</div>
     </div>
-    <div class="flex-image">
+    <div class="board-flex-image">
       <img src="/images/gafl.png"/>
     </div>
   </div>
 </div>
 
+### **Activity**
+
+<div class="card-flex-container">
+  <div class="card-flex-item">
+    <a href="http://blog.weirdx.io/" target="_blank">
+      <img src="/images/weirdmeetup_logo.png">
+      <p>Weirdmeetup</p>
+    </a>
+  </div>
+  <div class="card-flex-item">
+    <a href="http://kotlin.kr/" target="_blank">
+      <img src="/images/kotlinkorea_logo.png">
+      <p>Kotlin Korea</p>
+    </a>
+  </div>
+  <div class="card-flex-item">
+    <a href="https://www.facebook.com/groups/1581001912175827/" target="_blank">
+      <img src="/images/appdev_logo.png">
+      <p>앱개발 고픈 사람들의 모임</p>
+    </a>
+  </div>
+</div>
+
+
 ### **Story**
 
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
