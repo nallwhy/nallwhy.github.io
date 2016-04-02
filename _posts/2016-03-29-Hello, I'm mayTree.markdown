@@ -187,24 +187,64 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
   <div class="card-flex-container">
     <div class="card-flex-item">
       <a href="http://blog.weirdx.io/" target="_blank">
-        <img src="/images/weirdmeetup_logo.png">
+        <img src="/images/weirdmeetup_logo.png" />
         <p>Weirdmeetup</p>
       </a>
     </div>
     <div class="card-flex-item">
       <a href="http://kotlin.kr/" target="_blank">
-        <img src="/images/kotlinkorea_logo.png">
+        <img src="/images/kotlinkorea_logo.png" />
         <p>Kotlin Korea</p>
       </a>
     </div>
     <div class="card-flex-item">
       <a href="https://www.facebook.com/groups/1581001912175827/" target="_blank">
-        <img src="/images/appdev_logo.png">
+        <img src="/images/appdev_logo.png" />
         <p>앱개발 고픈 사람들의 모임</p>
+      </a>
+    </div>
+    <div class="card-flex-item">
+      <a href="https://developer.mozilla.org/ko/profiles/maytree" target="_blank">
+        <img src="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" />
+        <p>MDN Translation</p>
+      </a>
+    </div>
+    <div class="card-flex-item">
+      <a href="http://json.postype.com/" target="_blank">
+        <img src="/images/maytree.png">
+        <p>Blogging</p>
       </a>
     </div>
   </div>
 </div>
 
+
 ### **Story**
 
+
+두 살 때부터 컴퓨터를 만지기 시작
+
+초등학생 때 주변 사람들 컴퓨터를 고쳐주러 다님
+
+공부하는 학원을 다닌 경험은 중학교 2학년 때 수학학원 한 달, 고3 때 수학 그룹과외 반년 밖에 없음
+
+AOS 게임 카오스 [Live배 1차](http://cafe.daum.net/ChaosLive) Team Dark 총 96팀 중 10강 (2008)
+
+대학 재학 중 대부분의 수업 프로젝트에서 1등\\
+: 기계제도, 창의공학설계, 동역학, 설계/제조 및 실습, 기계항공시스템해석, 센서개론, 컴퓨터의 개념 및 실습, 최적설계
+
+컴퓨터의 개념 및 실습 수업을 듣고 프로그래밍에 큰 흥미를 느낌
+
+석사 졸업 후 개발직군 면접들에서 지금은 여기서 내가 제일 못하지만 1년만 지나면 제일 잘 할 것이라고 하고 다님
+
+신입 사원 교육 때 회사 제품에 대한 버그와 보완해야할 점 적어서 메일 보냄
+
+처음 제대로 맡았던 회사에서 2년 동안 안 풀리던 이슈 2주 동안 해결
+
+3DSystems 2년차 때 별명 '손수석'
+
+3DSystems 3년차 때 팀 변경 요청하여 Web front-end 개발을 시작
+
+팀 내에서 사용하지 않고 있던 새로운 기술들을 적극 도입 (CSS Flexbox, Promise chain 등)
+
+Startup Cultrip 에서 처음으로 Android, Back-end 개발을 도전. 3개월 후 베타 테스팅 중
