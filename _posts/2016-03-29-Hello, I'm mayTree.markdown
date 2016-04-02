@@ -230,7 +230,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 AOS 게임 카오스 [Live배 1차](http://cafe.daum.net/ChaosLive) Team Dark 총 96팀 중 10강 (2008)
 
-대학 재학 중 대부분의 수업 프로젝트에서 1등\\
+대학 재학 중 대부분의 수업 프로젝트에서 1등
 : 기계제도, 창의공학설계, 동역학, 설계/제조 및 실습, 기계항공시스템해석, 센서개론, 컴퓨터의 개념 및 실습, 최적설계
 
 컴퓨터의 개념 및 실습 수업을 듣고 프로그래밍에 큰 흥미를 느낌
