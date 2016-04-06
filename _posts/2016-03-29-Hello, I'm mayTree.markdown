@@ -25,11 +25,11 @@ Motto: [인간은 완벽할 수 없지만, 완벽해질 수 있다](http://json.
 
 - Android: 3 months (as a side job)
   
-  Kotlin, RxJava, Facebook SDK, AWS SDK, Paypal SDK
+  Kotlin, RxJava, Realm, Facebook SDK, AWS SDK, Paypal SDK
 
 - Desktop Application: 2 years
 
-  C++, C#, OpenGL, Geometry
+  C++, C#, OpenGL, Geometry, Poco
 
 **Languages**
 
