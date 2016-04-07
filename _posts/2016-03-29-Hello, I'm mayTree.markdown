@@ -20,7 +20,7 @@ Motto: [인간은 완벽할 수 없지만, 완벽해질 수 있다](http://json.
 
 - Web: 1 years
 
-  Front-end - AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, Underscore\\
+  Front-end - AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
   Back-end - Ruby on Rails, AWS, Heroku, RESTful, Facebook login, Paypal payment
 
 - Android: 3 months (as a side job)
@@ -102,7 +102,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 <div class="career">
   <div class="board-flex-container">
     <div class="board-flex-content">
-      <p><b>Cultrip</b></p>
+      <a class="board-title" href="http://www.cultrip.co.kr" target="_blank"><p><b>Cultrip</b></p></a>
       <div class="content-detail">CTO</div>
       <span>2016 -</span>
     </div>
@@ -112,7 +112,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
   </div>
   <div class="board-flex-container">
     <div class="board-flex-content">
-      <p><b>3DSystems Korea</b></p>
+      <a class="board-title" href="http://www.3dsystems.com" target="_blank"><p><b>3DSystems</b></p></a>
       <div class="content-detail">Software Engineer</div>
       <span>Cloud Team (2015 - 2016)</span>
       <br/>
@@ -129,7 +129,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 <div class="education">
   <div class="board-flex-container">
     <div class="board-flex-content">
-      <p><b>Seoul National University</b></p>
+      <a class="board-title" href="http://www.snu.ac.kr" target="_blank"><p><b>Seoul National University</b></p></a>
       <div>Mechanical and Aerospace Engineering, Master of Science (MS)</div>
       <div>2011 - 2013</div>
       <div>Human-Centered CAD Lab.</div>
@@ -152,7 +152,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
   <div class="board-flex-container">
     <div class="board-flex-content">
-      <p><b>Seoul National University</b></p>
+       <a class="board-title" href="http://www.snu.ac.kr" target="_blank"><p><b>Seoul National University</b></p></a>
       <div>Mechanical and Aerospace Engineering, Bachelor of Science (BS)</div>
       <div>2007 - 2011</div>
       <br/>
@@ -171,7 +171,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
   <div class="board-flex-container">
     <div class="board-flex-content">
-      <p><b>Gyeonggi Academy of Foreign Languages</b></p>
+       <a class="board-title" href="http://gafl.hs.kr" target="_blank"><p><b>Gyeonggi Academy of Foreign Languages</b></p></a>
       <div>English, Japaness</div>
       <div>2004 - 2007</div>
     </div>
