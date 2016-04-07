@@ -10,7 +10,12 @@
 }
 
 .post-content {
-  h3:not(:first-of-type) { margin-top: 40px; }
+  h3 {
+    text-decoration: underline;
+    &:not(:first-of-type) { margin-top: 40px; }
+  }
+
+  p img { margin: 10px; }
 }
 
 // .activity { text-align: center; }
