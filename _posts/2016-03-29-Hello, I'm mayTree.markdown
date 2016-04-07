@@ -83,7 +83,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 - Stomit (1 month)
 
-  ADP 를 웹 상에서 3D mesh engine 으로 쓸 수 있도록 python script 로 래핑 및 deploy it to EC2
+  ADP 를 웹 상에서 3D mesh engine 으로 쓸 수 있도록 python script wrapping 및 deploy it to EC2
 
 - Cultrip (3 months as a side job)
 
