@@ -73,7 +73,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
   ![odm_main](/images/odm_main.png)
   ![odm_3dview](/images/odm_3dview.png)
 
-  Front-end layout 구조 작업, 3D viewer command 제작 및 event 연결
+  Front-end layout 구조 작업, 3D viewer command 제작 및 event 연결, Cross browsing
 
 - [3DSPRINT Cloud](http://www.3dsprint.com/) (4 months)
 
@@ -92,7 +92,8 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
   ![cultrip_0](/images/cultrip_0.png){:width="40%"}
   ![cultrip_1](/images/cultrip_1.png){:width="40%"}
 
-  API server based on Rails
+  Android application with Kotlin\\
+  Restful API server based on Rails
 
   현재 베타테스팅 중
 
