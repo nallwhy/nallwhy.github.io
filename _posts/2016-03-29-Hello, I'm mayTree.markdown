@@ -5,13 +5,19 @@ date:   2016-03-29 23:00:00 +0900
 categories: resume
 ---
 
-### **Who I am**
+### **Jinkyou Son**
 
-Name: Jinkyou Son
+**Nickname**\\
+mayTree, JSon
 
-Nickname: mayTree, Json
+**Motto**\\
+[Human is not perfect, but can be.](http://json.postype.com/post/119354/){:target="_blank"}
 
-Motto: [인간은 완벽할 수 없지만, 완벽해질 수 있다](http://json.postype.com/post/119354/){:target="_blank"}
+I'm a 3 years experienced software engineer.\\
+I started this career late, but really happy to do this job.\\
+I used to study by myself and learn quickly.\\
+I had wide range of experience at 2015, and now I want to be a specialist not a just generalist.
+
 
 
 ### **What I experienced**
@@ -36,7 +42,7 @@ Motto: [인간은 완벽할 수 없지만, 완벽해질 수 있다](http://json.
 Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 
-### **Also, I Interested in**
+### **Also, I'm interested in**
 
 - Angular 2
 - React
@@ -49,53 +55,55 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 ### **What I did**
 
-- 3DPRINT Connect ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
+- **3DPRINT Connect** ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
   CES 2016 Innovation Award
   
-  ![3dsprint_connect](/images/3dsprint_connect.png)
-  ![3dsprint_ces](/images/3dsprint_ces.jpeg)
-
   - Project Canvas: 3D rendering engine based on scene graph data structure (70%)
 
-    My original roll\\
-    Scene graph data structure 개선 및 application 사이의 layer 작업
+    Improvement of scene graph data structure\\
+    Creating layer between application and renderer
 
-  - Project Watson: C# based application (20%)
+  - Project Watson: C# based windows application (20%)
 
-    Mesh selection, Printing material 관련 작업 및 다수의 refactoring, bug fix, performance 개선 작업
+    Implementation of mesh selection and many commands\\
+    Refactoring legacy codes\\
+    Performance improvement
 
   - Project ADP: 3D mesh kernel (10%)
 
-    Mesh instance 구조 개선 및 bug fix
+    Improvement of mesh instance (shared mesh)
 
-- [3DSystems onDemand](http://qpe-staging.herokuapp.com/home) (6 months)
+  ![3dsprint_connect](/images/3dsprint_connect.png)
+  ![3dsprint_ces](/images/3dsprint_ces.jpeg)
+
+- [**3DSystems onDemand**](http://qpe-staging.herokuapp.com/home) (6 months)
+
+  Front-end layout with flexbox\\
+  Connecting 3D viewer and its commands\\
+  Cross browsing
 
   ![odm_main](/images/odm_main.png)
   ![odm_3dview](/images/odm_3dview.png)
 
-  Front-end layout 구조 작업, 3D viewer command 제작 및 event 연결, Cross browsing
+- [**3DSPRINT Cloud**](http://www.3dsprint.com/) (4 months)
 
-- [3DSPRINT Cloud](http://www.3dsprint.com/) (4 months)
+  Front-end
 
   ![3dsprint_cloud](/images/3dsprint_cloud.png)
 
-  Front-end jobs
+- **Stomit** (1 month)
 
-- Stomit (1 month)
+  Exporting 3D mesh kernel with python script
+  Docker
+  Deploy to EC2
 
-  ADP 를 웹 상에서 3D mesh engine 으로 쓸 수 있도록 python script wrapping 및 deploy it to EC2
+- **Cultrip** (3 months as a side job)
 
-- Cultrip (3 months as a side job)
-
-  [Android app](https://play.google.com/apps/testing/kr.co.cultrip.www.cultrip)
+  [Android native application](https://play.google.com/apps/testing/kr.co.cultrip.www.cultrip)\\
+  Restful API server in Rails
 
   ![cultrip_0](/images/cultrip_0.png){:width="40%"}
   ![cultrip_1](/images/cultrip_1.png){:width="40%"}
-
-  Android application with Kotlin\\
-  Restful API server based on Rails
-
-  현재 베타테스팅 중
 
 
 ### **Career**
