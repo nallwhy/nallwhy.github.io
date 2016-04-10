@@ -33,7 +33,7 @@ I had wide range of experience at 2015, and now I want to be a specialist not a 
   
   Kotlin, RxJava, Realm, Facebook SDK, AWS SDK, Paypal SDK
 
-- Desktop Application: 2 years
+- Windows desktop application: 2 years
 
   C++, C#, OpenGL, Geometry, Poco
 
@@ -58,7 +58,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 - **3DPRINT Connect** ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
   CES 2016 Innovation Award
   
-  - Project Canvas: 3D rendering engine based on scene graph data structure (70%)
+  - Project Canvas: 3D rendering engine with scene graph data structure (70%)
 
     Improvement of scene graph data structure\\
     Creating layer between application and renderer
@@ -99,7 +99,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 
 - **Cultrip** (3 months as a side job)
 
-  [Android native application](https://play.google.com/apps/testing/kr.co.cultrip.www.cultrip)\\
+  [Android native application with Kotlin](https://play.google.com/apps/testing/kr.co.cultrip.www.cultrip)\\
   Restful API server in Rails
 
   ![cultrip_0](/images/cultrip_0.png){:width="40%"}
