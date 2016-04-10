@@ -11,7 +11,7 @@ categories: resume
 mayTree, JSon
 
 **Motto**\\
-[Human is not perfect, but can be.](http://json.postype.com/post/119354/){:target="_blank"}
+[Human is not perfect, but can be perfect.](http://json.postype.com/post/119354/){:target="_blank"}
 
 I'm a 3 years experienced software engineer.\\
 I started this career late, but really happy to do this job.\\
@@ -121,7 +121,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
   </div>
   <div class="board-flex-container">
     <div class="board-flex-content">
-      <a class="board-title" href="http://www.3dsystems.com" target="_blank"><p><b>3DSystems</b></p></a>
+      <a class="board-title" href="http://www.3dsystems.com" target="_blank"><p><b>3DSystems Korea</b></p></a>
       <div class="content-detail">Software Engineer</div>
       <span>Cloud Team (2015 - 2016)</span>
       <br/>
