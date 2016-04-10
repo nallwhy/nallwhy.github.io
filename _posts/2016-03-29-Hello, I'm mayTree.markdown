@@ -7,6 +7,8 @@ categories: resume
 
 ### **Jinkyou Son**
 
+![maytree](/images/maytree.png){:width="20%"}
+
 **Nickname**\\
 mayTree, JSon
 
