@@ -231,13 +231,13 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
 ### **Story**
 
 1989\\
-컴퓨터를 만지기 시작
+Start to play with computer.
 
 1996\\
-주변 사람들 컴퓨터를 고쳐주러 다님
-아버지 친구 분 방직 공장 컴퓨터가 밤에 고장나서 공장이 멈췄을 때도 가서 고쳐드림
+Fix neighbour's computer, even the computer in textile factory as requested from my father's friend.
 
 2001\\
+I only took private educational institude for 1 month
 공부하는 학원을 다닌 경험은 중학교 2학년 때 수학학원 한 달, 고3 때 수학 그룹과외 반년이 전부
 
 2008
@@ -246,7 +246,7 @@ AOS 게임 카오스 Live배 1차 Team Dark 총 96팀 중 10강
 : 기계제도, 창의공학설계, 동역학, 설계/제조 및 실습, 기계항공시스템해석, 센서개론, 컴퓨터의 개념 및 실습, 최적설계
 
 2010\\
-컴퓨터의 개념 및 실습 수업을 듣고 프로그래밍에 큰 흥미를 느낌
+Be interested in computer programming after took the "Digital Computer Concept and Practice" class.
 
 2013\\
 석사 졸업 후 개발직군 면접들에서 지금은 여기서 내가 제일 못하지만 1년만 지나면 제일 잘 할 것이라고하여 합격
@@ -254,7 +254,7 @@ AOS 게임 카오스 Live배 1차 Team Dark 총 96팀 중 10강
 신입 때 회사에서 2년 동안 안 풀리던 이슈 2주안에 해결
 
 2014\\
-사내에서 별명 '손수석'
+called as 'Senior Son' in company
 
 2015\\
 팀 변경 요청하여 Web front-end 개발을 시작
