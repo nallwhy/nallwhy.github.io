@@ -26,12 +26,16 @@ I had wide range of experience at 2015, and now I want to be a specialist not a 
 
 - Web: 1 years
 
-  Front-end - AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
-  Back-end - Ruby on Rails, AWS, Heroku, RESTful, Facebook login, Paypal payment
+  Front-end - AngularJS2, AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
+  Back-end - Ruby on Rails, AWS, Heroku, RESTful, Facebook login, Paypal payment, Firebase
 
-- Android: 3 months (as a side job)
+- Android: 6 months
   
   Kotlin, RxJava, Realm, Facebook SDK, AWS SDK, Paypal SDK
+
+- iOS: 1 months
+
+  ReactiveKit, Alamofire
 
 - Windows desktop application: 2 years
 
@@ -39,15 +43,13 @@ I had wide range of experience at 2015, and now I want to be a specialist not a 
 
 **Languages**
 
-Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
+Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
 
 
 ### **Also, I'm interested in**
 
-- Angular 2
 - React
 - React Native
-- iOS
 - Docker
 - Electron
 - Elm
@@ -113,7 +115,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript
     <div class="board-flex-content">
       <a class="board-title" href="http://www.cultrip.co.kr" target="_blank"><p><b>Cultrip</b></p></a>
       <div class="content-detail">CTO</div>
-      <span>2016 -</span>
+      <span>2016.01 - 2016.07</span>
     </div>
     <div class="board-flex-image">
       <img src="/images/cultrip_logo.png"/>
@@ -261,4 +263,4 @@ AOS 게임 카오스 Live배 1차 Team Dark 총 96팀 중 10강
 팀 내에서 사용하지 않고 있던 새로운 기술들을 적극 도입 (CSS Flexbox, Promise chain 등)
 
 2016\\
-Startup Cultrip 에서 처음으로 Android, Back-end 개발을 도전. 3개월 후 베타 테스팅 중
+Startup Cultrip 에서 처음으로 Android, Back-end 개발을 도전. 3개월 후 베타 테스팅.
