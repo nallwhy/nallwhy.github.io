@@ -26,7 +26,7 @@ I had wide range of experience at 2015, and now I want to be a specialist not a 
 
 - Web: 1 years
 
-  Front-end - AngularJS2, AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
+  Front-end - Angular2, Responsible, AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
   Back-end - Ruby on Rails, AWS, Heroku, RESTful, Facebook login, Paypal payment, Firebase
 
 - Android: 6 months
@@ -101,7 +101,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
 
 - **Cultrip** (3 months as a side job)
 
-  [Android native application with Kotlin](https://play.google.com/apps/testing/kr.co.cultrip.www.cultrip)\\
+  [Android native application with Kotlin](https://play.google.com/store/apps/details?id=kr.co.cultrip.www.cultrip)\\
   Restful API server in Rails
 
   ![cultrip_0](/images/cultrip_0.png){:width="40%"}
@@ -196,6 +196,12 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
 
 <div class="activity">
   <div class="card-flex-container">
+    <div class="card-flex-item">
+      <a href="https://github.com/nallwhy" target="_blank">
+        <img src="/images/github_logo.png" />
+        <p>Open Source</p>
+      </a>
+    </div>
     <div class="card-flex-item">
       <a href="http://blog.weirdx.io/" target="_blank">
         <img src="/images/weirdmeetup_logo.png" />
