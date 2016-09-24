@@ -120,9 +120,12 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
 <div class="career">
   <div class="board-flex-container">
     <div class="board-flex-content">
-      <a class="board-title" href="http://www.cultrip.co.kr" target="_blank"><p><b>OperaCoffee</b></p></a>
+      <a class="board-title" href="http://operaproject.wixsite.com/home" target="_blank"><p><b>OperaCoffee</b></p></a>
       <div class="content-detail">Software Engineer</div>
-      <span>2016.05. - </span>
+      <p>2016.05. - </p>
+      <span>iOS Application</span>
+      <br />
+      <span>Back Office</span>
     </div>
     <div class="board-flex-image">
       <img src="/images/operacoffee_logo.png"/>
@@ -130,9 +133,20 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
   </div>
   <div class="board-flex-container">
     <div class="board-flex-content">
+      <a class="board-title" href="https://www.facebook.com/1day1songapp" target="_blank"><p><b>1Day1Song</b></p></a>
+      <div class="content-detail">Software Engineer</div>
+      <p>2016.05. - </p>
+      <span>Android Application Maintenance</span>
+    </div>
+    <div class="board-flex-image">
+      <img src="/images/1day1song_logo.png"/>
+    </div>
+  </div>
+  <div class="board-flex-container">
+    <div class="board-flex-content">
       <a class="board-title" href="http://www.cultrip.co.kr" target="_blank"><p><b>Cultrip</b></p></a>
       <div class="content-detail">CTO</div>
-      <span>2016.01. - 2016.07.</span>
+      <p>2016.01. - 2016.07.</p>
     </div>
     <div class="board-flex-image">
       <img src="/images/cultrip_logo.png"/>
@@ -142,11 +156,9 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
     <div class="board-flex-content">
       <a class="board-title" href="http://www.3dsystems.com" target="_blank"><p><b>3DSystems Korea</b></p></a>
       <div class="content-detail">Software Engineer</div>
-      <span>2013.01. - 2016.04.</span>
-      <br />
-      <br />
+      <p>2013.01. - 2016.04.</p>
       <span>Cloud Team (2015 - 2016)</span>
-      <br/>
+      <br />
       <span>Print Core Team (2013 - 2015)</span>
     </div>
     <div class="board-flex-image">
@@ -305,5 +317,6 @@ AOS 게임 카오스 Live배 1차 Team Dark 총 96팀 중 10강
 
 2016\\
 Startup Cultrip 에서 처음으로 Android, Back-end 개발을 도전. 3개월 후 베타 테스팅\\
+좋아하던 음악앱 1Day1Song 의 안드로이드 업데이트가 안되고 있는 것을 보고 대표님에게 연락해 직접 1년 반 만의 업데이트, 유저들의 호평이 쏟아짐\\
 Startup OperaCoffee 에서 처음으로 iOS 개발을 도전, 2개월 후 출시\\
 DnD 에서 '협업하는 디자이너' 강의
