@@ -212,46 +212,61 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
   </div>
 </div>
 
+### **Operation**
+
+<div class="operation" class="card-flex-container">
+  <div class="card-flex-item">
+    <a href="https://www.facebook.com/groups/rxkorea" target="_blank">
+      <img src="/images/rxkorea_logo.png">
+      <p>RxKorea</p>
+    </a>
+  </div>
+  <div class="card-flex-item">
+    <a href="https://www.facebook.com/groups/designersndevelopers" target="_blank">
+      <img src="/images/dnd_logo.png">
+      <p>DnD</p>
+    </a>
+  </div>
+</div>
+
 ### **Activity**
 
-<div class="activity">
-  <div class="card-flex-container">
-    <div class="card-flex-item">
-      <a href="https://github.com/nallwhy" target="_blank">
-        <img src="/images/github_logo.png" />
-        <p>Open Source</p>
-      </a>
-    </div>
-    <div class="card-flex-item">
-      <a href="http://blog.weirdx.io/" target="_blank">
-        <img src="/images/weirdmeetup_logo.png" />
-        <p>Weirdmeetup</p>
-      </a>
-    </div>
-    <div class="card-flex-item">
-      <a href="http://kotlin.kr/" target="_blank">
-        <img src="/images/kotlinkorea_logo.png" />
-        <p>Kotlin Korea</p>
-      </a>
-    </div>
-    <div class="card-flex-item">
-      <a href="https://www.facebook.com/groups/1581001912175827/" target="_blank">
-        <img src="/images/appdev_logo.png" />
-        <p>앱개발 고픈 사람들의 모임</p>
-      </a>
-    </div>
-    <div class="card-flex-item">
-      <a href="https://developer.mozilla.org/ko/profiles/maytree" target="_blank">
-        <img src="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" />
-        <p>MDN Translation</p>
-      </a>
-    </div>
-    <div class="card-flex-item">
-      <a href="http://json.postype.com/" target="_blank">
-        <img src="/images/maytree.png">
-        <p>Blogging</p>
-      </a>
-    </div>
+<div class="activity" class="card-flex-container">
+  <div class="card-flex-item">
+    <a href="https://github.com/nallwhy" target="_blank">
+      <img src="/images/github_logo.png" />
+      <p>Open Source</p>
+    </a>
+  </div>
+  <div class="card-flex-item">
+    <a href="http://blog.weirdx.io/" target="_blank">
+      <img src="/images/weirdmeetup_logo.png" />
+      <p>Weirdmeetup</p>
+    </a>
+  </div>
+  <div class="card-flex-item">
+    <a href="http://kotlin.kr/" target="_blank">
+      <img src="/images/kotlinkorea_logo.png" />
+      <p>Kotlin Korea</p>
+    </a>
+  </div>
+  <div class="card-flex-item">
+    <a href="https://www.facebook.com/groups/1581001912175827/" target="_blank">
+      <img src="/images/appdev_logo.png" />
+      <p>앱개발 고픈 사람들의 모임</p>
+    </a>
+  </div>
+  <div class="card-flex-item">
+    <a href="https://developer.mozilla.org/ko/profiles/maytree" target="_blank">
+      <img src="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" />
+      <p>MDN Translation</p>
+    </a>
+  </div>
+  <div class="card-flex-item">
+    <a href="http://json.postype.com/" target="_blank">
+      <img src="/images/maytree.png">
+      <p>Blogging</p>
+    </a>
   </div>
 </div>
 
@@ -290,4 +305,5 @@ AOS 게임 카오스 Live배 1차 Team Dark 총 96팀 중 10강
 
 2016\\
 Startup Cultrip 에서 처음으로 Android, Back-end 개발을 도전. 3개월 후 베타 테스팅\\
-Startup OperaCoffee 에서 처음으로 iOS 개발을 도전. 2개월 후 출시.
+Startup OperaCoffee 에서 처음으로 iOS 개발을 도전, 2개월 후 출시\\
+DnD 에서 '협업하는 디자이너' 강의
