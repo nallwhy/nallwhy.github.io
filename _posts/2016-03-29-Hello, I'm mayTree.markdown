@@ -26,12 +26,12 @@ I had wide range of experience at 2015, and now I want to be a specialist not a 
 
 - Web: 1 years
 
-  Front-end - Angular2, Responsible, AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
+  Front-end - Angular2, Responsive, AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
   Back-end - Ruby on Rails, AWS, Heroku, RESTful, Facebook login, Paypal payment, Firebase
 
-- Android: 6 months
+- Android: 7 months
   
-  Kotlin, RxJava, Realm, Facebook SDK, AWS SDK, Paypal SDK
+  Kotlin, MVVM, RxJava, Realm, Facebook SDK, AWS SDK, Paypal SDK
 
 - iOS: 2 months
 
@@ -107,13 +107,21 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
   ![cultrip_0](/images/cultrip_0.png){:width="40%"}
   ![cultrip_1](/images/cultrip_1.png){:width="40%"}
 
-- **OperaCoffee** (2 months)
+- **OperaCoffee iOS App** (2 months)
 
-  iOS native application with Swift
+  iOS native application with Swift\\
   MVVM, Protocol-oriendted programming
 
-  ![operacoffee_0](/images/operacoffee_0.png){:width="40%"}
-  ![operacoffee_1](/images/operacoffee_1.png){:width="40%"}
+  ![operacoffee_ios_app_0](/images/operacoffee_ios_app_0.png){:width="40%"}
+  ![operacoffee_ios_app_1](/images/operacoffee_ios_app_1.png){:width="40%"}
+
+- **OperaCoffee Back Office** (2 months)
+
+  Angular2 + Electron cross platform desktop app.\\
+  Mobile first responsive web design.
+
+  ![operacoffee_back_office_0](/images/operacoffee_back_office_0.png){:width="65%"}
+  ![operacoffee_back_office_1](/images/operacoffee_back_office_1.png){:width="25%"}
 
 ### **Career**
 
